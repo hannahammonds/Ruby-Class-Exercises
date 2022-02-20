@@ -1,6 +1,6 @@
 
 def favorite_movie(movie)
-    puts "My favorite movie is #{moive}."
+    puts "My favorite movie is #{movie}."
 end
 
 def favorite_food(food)
