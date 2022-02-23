@@ -17,9 +17,9 @@ while i < numbers.length
     numbers[i] 
     i += 1
     if i.even?
-        puts "#{i} is even"
+      puts "#{i} is even"
     else
-        puts "#{i} is odd"
+      puts "#{i} is odd"
     end
 end
 
