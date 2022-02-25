@@ -71,4 +71,27 @@ each - iterates through the array with reference to each element
 
 ## Part 3
 
+## Part 3
+<em>**What is Object Oriented Programming?**</em> -     uses classes as blueprints for objects. <br>
+
+<em>**Class inheritance**</em> - I
+    classess can inherit attributes from parent classes, Ruby looks in child class first and then looks for to parent class for methods <br>
+
+<em>**What are getters and setters?**</em> - 
+    attribute accessors - built in setters and getters in methods, instance methods
+    setters -  sets the value for an instance variable
+    getters - returns the instance variable <br>
+
+<em>**Difference between class variables and instance variables and class attributes?**</em> - 
+     *class variables - declare under the class, starts with @@ and must be initialized first then they can be used in method definitions. 
+     *instance variables - name starts with the @ symbol and content is restricted to whatever the object itself refers to
+     *class attributes - implemented using getters and setters from instance variables<br>
+
+<em>**What does self signify in a class?**</em> -   
+     the self keyword refers to the entire class by itself<br>
+
+<em>**Modules</em> - 
+    can give commonly used methods to other classes iwth tht need instatntiate/create object
+     <br>
+
 ## Part 4
