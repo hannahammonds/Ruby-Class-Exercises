@@ -1,7 +1,7 @@
 #define a person class [x]
 #define a module called traits[x]
     #define a method called eat [x]
-    #print out 'eating' [x]
+    #print out 'eating -' [x]
 #include the module in the person class [x]
     #allow each person instance to call these methods the module gives []
 
