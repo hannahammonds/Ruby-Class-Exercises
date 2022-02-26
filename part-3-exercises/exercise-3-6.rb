@@ -1,8 +1,22 @@
-#define a person class []
-#define a module called traits[]
-    #define a method called eat []
-    #print out 'eating' []
-#include the module in the person class []
+#define a person class [x]
+#define a module called traits[x]
+    #define a method called eat [x]
+    #print out 'eating' [x]
+#include the module in the person class [x]
     #allow each person instance to call these methods the module gives []
 
-    class Person
+ 
+module Traits
+  def eat(food)
+    puts "I am eating #{food}."
+  end
+end
+
+class Person
+  include Traits 
+
+end
+
+person = Person.new 
+person.eat(sandwiches)
+
