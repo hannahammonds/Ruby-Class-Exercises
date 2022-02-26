@@ -91,7 +91,7 @@ each - iterates through the array with reference to each element
      the self keyword refers to the entire class by itself<br>
 
 <em>**Modules</em> - 
-    can give commonly used methods to other classes iwth tht need instatntiate/create object
+    can give commonly used methods to other classes when they need instatntiate/create object
      <br>
 
 ## Part 4
