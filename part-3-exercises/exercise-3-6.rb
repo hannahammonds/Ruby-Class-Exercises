@@ -3,7 +3,7 @@
     #define a method called eat [x]
     #print out 'eating -' [x]
 #include the module in the person class [x]
-    #allow each person instance to call these methods the module gives []
+    #allow each person instance to call these methods the module gives [x]
 
  
 module Traits
@@ -18,5 +18,5 @@ class Person
 end
 
 person = Person.new 
-person.eat(sandwiches)
+eating = person.eat("sandwiches")
 
