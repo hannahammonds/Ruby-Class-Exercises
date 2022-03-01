@@ -95,3 +95,10 @@ each - iterates through the array with reference to each element
      <br>
 
 ## Part 4
+<em>**Bundler**<em> - 
+    provides an enviorment for Ruby projects by letting coder install gems and versions that are needed for projects. 
+    *bundler.io <br>
+<em>**Gemfile**<em> - 
+    describes the gem dependencies require to excute Ruby code associated with it <br>
+<em>**Bcrypt**<em> - 
+    hash algoithm to mix up passwords to keep them secure and safe. bcrypt is a Ruby gem that keep passwords safe when handling <br>
